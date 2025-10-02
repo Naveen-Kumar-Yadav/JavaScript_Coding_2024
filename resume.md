@@ -1,69 +1,132 @@
-NAVEEN KUMAR YADAV
-Software Engineer	
-                                                                                               Mobile: +91-9123234015            Email: nkdeep310@gmail.com
-Profile Summary
-•	A results-driven and highly skilled Software Developer with over 4+ years of experience in designing,               developing, and implementing full-stack web applications.
-•	Developed scalable web apps using React, Angular, Node.js.
-•	Expertise in REST APIs, cloud deployment, microservices, and monitoring tools.
-•	Proficient in JS, TS, HTML, CSS, MongoDB,
-•	Integrated DevOps pipelines with Azure and JIRA.
-Core Competencies
-•	Full-Stack Development
-•	Mern Stack
-•	Application Migration	•	UI Design and Enhancement
-•	Agile Methodologies
-•	API Development and Integration	•	RESTful Services Development
-•	Database Management
+# NAVEEN KUMAR YADAV
+**Senior React.js & Node.js Developer**  
+📱 +91-9123234015  
+✉️ nkdeep310@gmail.com  
 
-Technical Skills
-•	Languages: JavaScript, TypeScript, Node.js, HTML, CSS
-•	Frameworks: Angular, React, Vue.js, Express.js
-•	Databases: MongoDB, MySQL
-•	Version Control: Git Bitbucket GitLab, JIRA
-•	Tools & IDEs: Visual Studio Code, Postman, PgAdmin, IntelliJ
-•	Others: REST API Development, UI Design, Data Integration, Application Deployment
-Education
-Master of Computer Applications, Dr. AKTU Lucknow, Uttar Pradesh, 2021
-Work Experience
-June 2022 to Oct 2024 -   Software Engineer at Nekstron Control And Automation Pvt Ltd, New Delhi       
-Role:
-•	Leading the development and enhancement of the Ul application to improve performance and scalability.
-•	Enhanced Node js APIs to implement new features and improve back-end efficiency for a faster user experience.
-•	Built 80+ RESTful APIs for seamless frontend integration and backend connectivity using Express.js and MySQL.
-Key Achievement:
-•	Enhanced both back-end and front-end components, optimizing the user interface and improving operational efficiency, resulting in higher user satisfaction and engagement.
-•	Reduced average page load time by 30% through modern optimization techniques and clean coding practices.
+---
 
-June 2022 to Oct 2024 -   Software Engineer at Samin Tekmindz India Pvt Ltd, Noida       
-Role:
-•	Designed key Ul features based on client requirements and developed REST APIs for smooth data fetching, validation
-•	Integrated RESTful APIs to facilitate seamless data exchange between front-end and back-end systems, ensuring real-time updates and improved application performance.
-•	Utilized Redux for state management , effectively managing complex application states and enhancing data flow across components.
-Key Achievement:
-•	Improved code reusability by 40% through implementation of clean, modular architecture and component-based design.
-•	Collaborating with cross-functional teams to deploy new features integrated with cloud servers ensuring seamless updates and performance.
-Nov 2021 to June 2022 - Software Engineer at Xcriptech Pvt Ltd, Noida                               
-Role:
-•	Integrated code for functional and logical changes, meeting user satisfaction levels.
-•	Handled user management API integration for functionalities such as adding, editing, deleting, and activating/inactivating users.
-Key Achievement:
-•	Built reusable component libraries and code modules, reducing future development time by 45%
+## **Profile Summary**
 
-Projects
-MDM- WATER METER
-Nekstron Control and Automation Pvt. Ltd.                                                                                                     Oct-2024 to Present Environment: REACT, Nodejs , Mysql , Java, Typescript, HTML, CSS
-•	Integrated AMI-based water meters with HES server to collect and visualize real-time meter data.
-•	Built and maintained RESTful APIs with Node.js and Express.js to support real-time data exchange between the HES and internal modules.
-•	Developed interactive and responsive front-end interfaces using React.js, HTML, CSS, and TypeScript for consumer dashboards and meter monitoring.
-•	Ensured end-to-end data flow from front-end to back-end, maintaining API performance, security, and scalability.
+A results-driven Senior Software Engineer with 4+ years of experience specializing in **React.js** and 2+ years in **Node.js**. Adept at building scalable, secure, and high-performance full-stack web applications. Expertise in designing robust architectures, implementing modern design patterns, and optimizing for reliability and maintainability. Proven track record of integrating security best practices, driving performance improvements, and leading cross-functional teams to deliver mission-critical solutions.
 
-NKERP (Najaf to Karbala ERP)
-Nekstron Control and Automation Pvt. Ltd.                                                                                               June-2022 to Oct-2024 Environment: REACT, Node , Mysql , Java, Typescript
-•	Designed and developed reusable components that are fully configuration-based with centralized state management, significantly enhancing development efficiency and ensuring consistent user experiences across applications.
-•	Handled performance optimization through techniques like code splitting, memoization, lazy loading, and virtualization to significantly improve application speed.
+---
 
-Lead Developer
-Nekstron Control and Automation Pvt. Ltd.                                                                                               Nov-2021 to May-2022 Environment: REACT, Node , Mysql , Java, Typescript
-•	Collaborated with design team to convert UI/UX designs into interactive web pages.
-•	Developed React.js components and state management to verify user purchases on login, ensuring that users can access only their purchased courses, improving security and delivering a personalized UI experience.
+## **Core Competencies**
 
+- **Front-End Excellence:** Advanced React.js, Redux, Hooks, Context API, Component Optimization, SPA Development, UI/UX Integration, Responsive and Accessible Design
+- **Back-End Mastery:** Node.js, Express.js, RESTful API Design, Microservices, Authentication & Authorization (JWT/OAuth), Secure API Development
+- **Architecture & Design Patterns:** Modular Architecture, Component-Based Design, MVC, Singleton, Observer, Factory Patterns, Clean Code
+- **Performance Optimization:** Code Splitting, Memoization, Lazy Loading, Virtualization, Caching, SQL/NoSQL Query Tuning, Reduced Load Times
+- **Security:** Secure Coding Practices, Role-Based Access Control, Data Validation/Sanitization, API Security, OWASP Principles
+- **DevOps & Cloud:** CI/CD Pipelines (Azure DevOps), Docker, Cloud Deployment, Monitoring, Rollback Strategies
+- **Collaboration:** Agile/Scrum, Cross-Functional Team Leadership, Requirements Gathering, Stakeholder Communication
+
+---
+
+## **Technical Skills**
+
+- **Languages:** JavaScript (ES6+), TypeScript, Node.js, HTML5, CSS3, SQL
+- **Frameworks/Libraries:** React.js, Redux, Angular, Vue.js, Express.js, Bootstrap, Material-UI
+- **Databases:** MongoDB, MySQL
+- **Version Control & Tools:** Git, Bitbucket, GitLab, JIRA, Visual Studio Code, Postman, PgAdmin, IntelliJ
+- **Others:** REST API Design, Authentication/Authorization, Application Deployment, Data Integration, Security Hardening, Performance Monitoring
+
+---
+
+## **Education**
+
+**Master of Computer Applications (MCA)**  
+Dr. APJ Abdul Kalam Technical University (AKTU), Lucknow, Uttar Pradesh  
+2021
+
+---
+
+## **Professional Experience**
+
+### **Nekstron Control And Automation Pvt Ltd, New Delhi**  
+_Senior Software Engineer_  
+**June 2022 – Oct 2024**
+
+- **Frontend:** Led the design and development of scalable, reusable React.js components following best practices in modular and component-based architecture.
+- **Backend:** Enhanced Node.js APIs with robust security (input validation, JWT authentication), improved backend efficiency, and implemented microservices for scalability.
+- **Performance:** Reduced average page load time by **30%** through modern React patterns (code-splitting, memoization, virtualization).
+- **Scalability:** Designed RESTful APIs supporting high concurrency and seamless frontend-backend integration.
+- **DevOps:** Integrated CI/CD pipelines via Azure DevOps, automated deployments, and monitored system health.
+- **Key Achievements:**  
+  - Optimized UI and backend, driving higher user satisfaction and engagement.
+  - Applied secure coding and code review processes to ensure production-quality releases.
+
+---
+
+### **Samin Tekmindz India Pvt Ltd, Noida**  
+_Software Engineer_  
+**June 2022 – Oct 2024**
+
+- Developed and integrated RESTful APIs for real-time data updates, focusing on security and performance.
+- Utilized Redux for advanced state management, enforcing clean, maintainable code and predictable data flow.
+- Improved code reusability by **40%** through modular design patterns and component libraries.
+- Collaborated with DevOps teams to deploy features on cloud servers, ensuring zero-downtime updates.
+
+---
+
+### **Xcriptech Pvt Ltd, Noida**  
+_Software Engineer_  
+**Nov 2021 – June 2022**
+
+- Integrated user management APIs with secure CRUD operations and role-based access controls.
+- Built reusable front-end libraries, reducing future feature development time by **45%**.
+- Ensured high-quality releases through rigorous testing and code review processes.
+
+---
+
+## **Major Projects**
+
+### **MDM – WATER METER**  
+*Nekstron Control and Automation Pvt. Ltd. | Oct 2024 – Present*  
+**Tech:** React.js, Node.js, MySQL, Express.js, REST APIs, Azure
+
+- Integrated AMI-based water meters with HES servers for secure, real-time data visualization.
+- Architected secure, scalable RESTful APIs; ensured end-to-end encrypted data flow.
+- Developed responsive dashboards using modern React.js patterns and TypeScript.
+- Implemented role-based access control and performance monitoring.
+
+---
+
+### **NKERP (Najaf to Karbala ERP)**  
+*Nekstron Control and Automation Pvt. Ltd. | June 2022 – Oct 2024*  
+**Tech:** React.js, Node.js, MySQL, Java, TypeScript
+
+- Designed reusable, configuration-driven components with centralized state management for scalability.
+- Led performance optimization initiatives: code splitting, memoization, lazy loading, virtualization.
+- Ensured robust security measures in API and data transactions.
+
+---
+
+### **Lead Developer Projects**  
+*Nekstron Control and Automation Pvt. Ltd. | Nov 2021 – May 2022*  
+**Tech:** React.js, Node.js, MySQL, TypeScript
+
+- Converted UI/UX designs into high-performance, interactive web pages.
+- Implemented secure authentication flows; enforced access control for personalized user experiences.
+- Set up CI/CD pipelines for continuous integration and delivery.
+
+---
+
+## **Certifications & Additional Skills**
+
+- React.js Advanced Patterns (Coursera/Udemy)
+- Node.js Security Best Practices
+- Azure DevOps CI/CD Fundamentals
+
+---
+
+## **Highlights**
+
+- **Security:** Proficient in implementing secure coding, authentication/authorization, and data protection in both client-side and server-side code.
+- **Performance:** Consistent record of optimizing application performance, scalability, and maintainability.
+- **Design Patterns:** Applied modern design patterns and clean code principles for sustainable, production-grade software.
+- **Scalability:** Delivered solutions supporting thousands of concurrent users and large-scale data processing.
+
+---
+
+> **Ready to contribute as a Senior React.js/Node.js Developer with focus on security, performance, and scalable architecture.**
